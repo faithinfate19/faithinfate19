@@ -1,79 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420" role="img" aria-labelledby="title desc">
 <title id="title">K-DUB - Kevin Arun</title>
-<desc id="desc">K-DUB in green and cyan pixel blocks on a charcoal terminal-style background. Kevin Arun, CS and Engineering student at IIIT Kottayam. Skills: Python, AI/ML, JavaScript, TypeScript. Building WPSYOS. Graphic and logo design. Interests: reading, music, productivity maxxing.</desc>
-<rect width="1180" height="420" rx="22" fill="#161b22"/><rect x="1" y="1" width="1178" height="418" rx="21" fill="none" stroke="#30363d" stroke-width="2"/>
-<circle cx="34" cy="30" r="8" fill="#3fb950"/><circle cx="62" cy="30" r="8" fill="#00b4d8"/><circle cx="90" cy="30" r="8" fill="#8b949e"/>
+<desc id="desc">K-DUB in green and cyan pixel-block lettering, matching a dark terminal theme. Kevin Arun, CS and Engineering student at IIIT Kottayam. Python, AI/ML, JavaScript, TypeScript. Building WPSYOS. Graphic and logo design. Reading, music, productivity maxxing.</desc>
+<rect width="1180" height="420" rx="22" fill="#0d1117"/><rect x="1" y="1" width="1178" height="418" rx="21" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle cx="34" cy="30" r="8" fill="#f85149"/><circle cx="62" cy="30" r="8" fill="#d29922"/><circle cx="90" cy="30" r="8" fill="#3fb950"/>
 <text x="590" y="37" fill="#8b949e" font-family="monospace" font-size="16" text-anchor="middle">faithinfate19@github:~</text><path d="M24 54H1156" stroke="#30363d"/>
 <rect x="28" y="158" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="158" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="84" y="158" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="28" y="172" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="172" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="70" y="172" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="28" y="186" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="186" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="56" y="186" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="28" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="42" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="28" y="214" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="214" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="56" y="214" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="28" y="228" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="228" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="70" y="228" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="28" y="242" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="28" y="242" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="84" y="242" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="112" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="112" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
-<rect x="112" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="126" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
+<rect x="140" y="200" width="12" height="12" rx="1" fill="#3fb950"/>
 <rect x="168" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="182" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="196" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="210" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="168" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="224" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="168" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="224" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="168" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="224" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="168" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="224" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="168" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="224" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="168" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="168" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="182" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="196" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="210" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="252" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="308" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="252" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="308" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="252" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="308" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="252" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="308" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="252" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="308" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="252" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="252" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="308" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="266" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="280" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="294" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="350" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="364" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="378" y="158" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="392" y="172" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="392" y="186" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="350" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="364" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="378" y="200" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="392" y="214" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="392" y="228" width="12" height="12" rx="1" fill="#00b4d8"/>
 <rect x="336" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
-<rect x="336" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="350" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="364" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
+<rect x="378" y="242" width="12" height="12" rx="1" fill="#00b4d8"/>
 <path d="M432 78V376" stroke="#30363d" stroke-width="2"/>
 <text x="466" y="105" fill="#00b4d8" font-family="monospace" font-size="23" font-weight="700">faithinfate19</text><path d="M466 119H800" stroke="#30363d"/>
 <text x="466" y="157" fill="#e6edf3" font-family="monospace" font-size="20" font-weight="700">Kevin Arun</text>
@@ -82,5 +82,4 @@
 <text x="466" y="266" fill="#3fb950" font-family="monospace" font-size="17">building</text><text x="584" y="266" fill="#e6edf3" font-family="monospace" font-size="17">WPSYOS</text>
 <text x="466" y="303" fill="#3fb950" font-family="monospace" font-size="17">design</text><text x="584" y="303" fill="#e6edf3" font-family="monospace" font-size="17">graphic design, logo design</text>
 <text x="466" y="340" fill="#3fb950" font-family="monospace" font-size="17">interests</text><text x="584" y="340" fill="#e6edf3" font-family="monospace" font-size="17">reading, music, productivity maxxing</text>
-<text x="28" y="378" fill="#8b949e" font-family="monospace" font-size="13">[ BUILT WITH CURIOSITY ]</text>
 </svg>

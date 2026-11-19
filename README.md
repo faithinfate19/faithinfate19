@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="assets/kdub-banner.svg" alt="K-DUB in green and cyan pixel lettering on a GitHub-inspired dark terminal. Kevin Arun, CS and Engineering student at IIIT Kottayam." width="100%">
+  <img src="assets/kdub-banner.svg" alt="K-DUB in green and cyan pixel blocks on a dark terminal background." width="100%">
 </p>
 
-# Hey, I'm Kevin Arun 👋
-
-CS &amp; Engineering student at **IIIT Kottayam**.
-
-- **Skills:** Python, AI/ML, JavaScript, TypeScript
-- **Building:** WPSYOS — Valorant esports analytics
-- **Design:** Graphic design and logo design
-- **Interests:** Reading, music, and productivity maxxing
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=208D7E&width=600&lines=Tryna+be+better+than+yesterday." alt="Tryna be better than yesterday."></a>
+</p>
