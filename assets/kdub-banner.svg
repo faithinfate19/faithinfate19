@@ -1,25 +1,186 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420" role="img" aria-labelledby="title desc">
-  <title id="title">KDUB — Kevin Arun</title>
-  <desc id="desc">Kevin Arun, CS and Engineering student at IIIT Kottayam. Skills in Python, AI and machine learning, JavaScript, and TypeScript. Building WPSYOS, graphic and logo design. Interests include reading, music, and productivity.</desc>
-  <rect width="1180" height="420" rx="22" fill="#111114"/>
-  <rect x="1" y="1" width="1178" height="418" rx="21" fill="none" stroke="#3a3a40" stroke-width="2"/>
-  <circle cx="34" cy="30" r="8" fill="#ff4d4d"/>
-  <circle cx="62" cy="30" r="8" fill="#77777f"/>
-  <circle cx="90" cy="30" r="8" fill="#eeeeef"/>
-  <text x="590" y="37" fill="#aaaab1" font-family="monospace" font-size="16" text-anchor="middle">faithinfate19@github:~</text>
-  <path d="M24 54H1156" stroke="#303036"/>
-  <text x="56" y="257" fill="#ef3434" font-family="monospace" font-size="108" font-weight="900" letter-spacing="4">KDUB</text>
-  <path d="M437 78V376" stroke="#3a3a40" stroke-width="2"/>
-  <text x="474" y="105" fill="#ff5555" font-family="monospace" font-size="23" font-weight="700">Kevin Arun</text>
-  <path d="M474 119H805" stroke="#4b2428"/>
-  <text x="474" y="157" fill="#c3c3ca" font-family="monospace" font-size="18">CS &amp; Engineering student, IIIT Kottayam</text>
-  <text x="474" y="211" fill="#ff5555" font-family="monospace" font-size="17">skills</text>
-  <text x="600" y="211" fill="#e3e3e7" font-family="monospace" font-size="17">Python · AI/ML · JavaScript · TypeScript</text>
-  <text x="474" y="252" fill="#ff5555" font-family="monospace" font-size="17">building</text>
-  <text x="600" y="252" fill="#e3e3e7" font-family="monospace" font-size="17">WPSYOS</text>
-  <text x="474" y="293" fill="#ff5555" font-family="monospace" font-size="17">design</text>
-  <text x="600" y="293" fill="#e3e3e7" font-family="monospace" font-size="17">graphic design · logo design</text>
-  <text x="474" y="334" fill="#ff5555" font-family="monospace" font-size="17">interests</text>
-  <text x="600" y="334" fill="#e3e3e7" font-family="monospace" font-size="17">reading · music · productivity maxxing</text>
-  <text x="56" y="367" fill="#77777f" font-family="monospace" font-size="13">[ BUILT WITH CURIOSITY ]</text>
+  <title id="title">K-DUB — Kevin Arun</title>
+  <desc id="desc">K-DUB in red dot lettering on a black background. Kevin Arun, CS and Engineering student at IIIT Kottayam. Skills in Python, AI and machine learning, JavaScript, and TypeScript. Building WPSYOS, graphic and logo design. Interests include reading, music, and productivity.</desc>
+  <rect width="1180" height="420" rx="22" fill="#0B1C2C"/>
+  <rect x="1" y="1" width="1178" height="418" rx="21" fill="none" stroke="#203A50" stroke-width="2"/>
+  <circle cx="34" cy="30" r="8" fill="#6CABDD"/>
+  <circle cx="62" cy="30" r="8" fill="#9ABBD3"/>
+  <circle cx="90" cy="30" r="8" fill="#FFFFFF"/>
+  <text x="590" y="37" fill="#D8EAF7" font-family="monospace" font-size="16" text-anchor="middle">faithinfate19@github:~</text>
+  <path d="M24 54H1156" stroke="#203A50"/>
+  <circle cx="44" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="157" r="4" fill="#243D52"/>
+  <circle cx="68" cy="157" r="4" fill="#243D52"/>
+  <circle cx="80" cy="157" r="4" fill="#243D52"/>
+  <circle cx="92" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="44" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="175" r="4" fill="#243D52"/>
+  <circle cx="68" cy="175" r="4" fill="#243D52"/>
+  <circle cx="80" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="92" cy="175" r="4" fill="#243D52"/>
+  <circle cx="44" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="193" r="4" fill="#243D52"/>
+  <circle cx="68" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="80" cy="193" r="4" fill="#243D52"/>
+  <circle cx="92" cy="193" r="4" fill="#243D52"/>
+  <circle cx="44" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="68" cy="211" r="4" fill="#243D52"/>
+  <circle cx="80" cy="211" r="4" fill="#243D52"/>
+  <circle cx="92" cy="211" r="4" fill="#243D52"/>
+  <circle cx="44" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="229" r="4" fill="#243D52"/>
+  <circle cx="68" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="80" cy="229" r="4" fill="#243D52"/>
+  <circle cx="92" cy="229" r="4" fill="#243D52"/>
+  <circle cx="44" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="247" r="4" fill="#243D52"/>
+  <circle cx="68" cy="247" r="4" fill="#243D52"/>
+  <circle cx="80" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="92" cy="247" r="4" fill="#243D52"/>
+  <circle cx="44" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="56" cy="265" r="4" fill="#243D52"/>
+  <circle cx="68" cy="265" r="4" fill="#243D52"/>
+  <circle cx="80" cy="265" r="4" fill="#243D52"/>
+  <circle cx="92" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="116" cy="157" r="4" fill="#243D52"/>
+  <circle cx="128" cy="157" r="4" fill="#243D52"/>
+  <circle cx="140" cy="157" r="4" fill="#243D52"/>
+  <circle cx="116" cy="175" r="4" fill="#243D52"/>
+  <circle cx="128" cy="175" r="4" fill="#243D52"/>
+  <circle cx="140" cy="175" r="4" fill="#243D52"/>
+  <circle cx="116" cy="193" r="4" fill="#243D52"/>
+  <circle cx="128" cy="193" r="4" fill="#243D52"/>
+  <circle cx="140" cy="193" r="4" fill="#243D52"/>
+  <circle cx="116" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="128" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="140" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="116" cy="229" r="4" fill="#243D52"/>
+  <circle cx="128" cy="229" r="4" fill="#243D52"/>
+  <circle cx="140" cy="229" r="4" fill="#243D52"/>
+  <circle cx="116" cy="247" r="4" fill="#243D52"/>
+  <circle cx="128" cy="247" r="4" fill="#243D52"/>
+  <circle cx="140" cy="247" r="4" fill="#243D52"/>
+  <circle cx="116" cy="265" r="4" fill="#243D52"/>
+  <circle cx="128" cy="265" r="4" fill="#243D52"/>
+  <circle cx="140" cy="265" r="4" fill="#243D52"/>
+  <circle cx="164" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="188" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="200" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="212" cy="157" r="4" fill="#243D52"/>
+  <circle cx="164" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="175" r="4" fill="#243D52"/>
+  <circle cx="188" cy="175" r="4" fill="#243D52"/>
+  <circle cx="200" cy="175" r="4" fill="#243D52"/>
+  <circle cx="212" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="164" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="193" r="4" fill="#243D52"/>
+  <circle cx="188" cy="193" r="4" fill="#243D52"/>
+  <circle cx="200" cy="193" r="4" fill="#243D52"/>
+  <circle cx="212" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="164" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="211" r="4" fill="#243D52"/>
+  <circle cx="188" cy="211" r="4" fill="#243D52"/>
+  <circle cx="200" cy="211" r="4" fill="#243D52"/>
+  <circle cx="212" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="164" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="229" r="4" fill="#243D52"/>
+  <circle cx="188" cy="229" r="4" fill="#243D52"/>
+  <circle cx="200" cy="229" r="4" fill="#243D52"/>
+  <circle cx="212" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="164" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="247" r="4" fill="#243D52"/>
+  <circle cx="188" cy="247" r="4" fill="#243D52"/>
+  <circle cx="200" cy="247" r="4" fill="#243D52"/>
+  <circle cx="212" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="164" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="176" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="188" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="200" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="212" cy="265" r="4" fill="#243D52"/>
+  <circle cx="236" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="248" cy="157" r="4" fill="#243D52"/>
+  <circle cx="260" cy="157" r="4" fill="#243D52"/>
+  <circle cx="272" cy="157" r="4" fill="#243D52"/>
+  <circle cx="284" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="236" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="248" cy="175" r="4" fill="#243D52"/>
+  <circle cx="260" cy="175" r="4" fill="#243D52"/>
+  <circle cx="272" cy="175" r="4" fill="#243D52"/>
+  <circle cx="284" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="236" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="248" cy="193" r="4" fill="#243D52"/>
+  <circle cx="260" cy="193" r="4" fill="#243D52"/>
+  <circle cx="272" cy="193" r="4" fill="#243D52"/>
+  <circle cx="284" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="236" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="248" cy="211" r="4" fill="#243D52"/>
+  <circle cx="260" cy="211" r="4" fill="#243D52"/>
+  <circle cx="272" cy="211" r="4" fill="#243D52"/>
+  <circle cx="284" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="236" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="248" cy="229" r="4" fill="#243D52"/>
+  <circle cx="260" cy="229" r="4" fill="#243D52"/>
+  <circle cx="272" cy="229" r="4" fill="#243D52"/>
+  <circle cx="284" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="236" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="248" cy="247" r="4" fill="#243D52"/>
+  <circle cx="260" cy="247" r="4" fill="#243D52"/>
+  <circle cx="272" cy="247" r="4" fill="#243D52"/>
+  <circle cx="284" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="236" cy="265" r="4" fill="#243D52"/>
+  <circle cx="248" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="260" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="272" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="284" cy="265" r="4" fill="#243D52"/>
+  <circle cx="308" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="332" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="344" cy="157" r="5.5" fill="#6CABDD"/>
+  <circle cx="356" cy="157" r="4" fill="#243D52"/>
+  <circle cx="308" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="175" r="4" fill="#243D52"/>
+  <circle cx="332" cy="175" r="4" fill="#243D52"/>
+  <circle cx="344" cy="175" r="4" fill="#243D52"/>
+  <circle cx="356" cy="175" r="5.5" fill="#6CABDD"/>
+  <circle cx="308" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="193" r="4" fill="#243D52"/>
+  <circle cx="332" cy="193" r="4" fill="#243D52"/>
+  <circle cx="344" cy="193" r="4" fill="#243D52"/>
+  <circle cx="356" cy="193" r="5.5" fill="#6CABDD"/>
+  <circle cx="308" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="332" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="344" cy="211" r="5.5" fill="#6CABDD"/>
+  <circle cx="356" cy="211" r="4" fill="#243D52"/>
+  <circle cx="308" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="229" r="4" fill="#243D52"/>
+  <circle cx="332" cy="229" r="4" fill="#243D52"/>
+  <circle cx="344" cy="229" r="4" fill="#243D52"/>
+  <circle cx="356" cy="229" r="5.5" fill="#6CABDD"/>
+  <circle cx="308" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="247" r="4" fill="#243D52"/>
+  <circle cx="332" cy="247" r="4" fill="#243D52"/>
+  <circle cx="344" cy="247" r="4" fill="#243D52"/>
+  <circle cx="356" cy="247" r="5.5" fill="#6CABDD"/>
+  <circle cx="308" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="320" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="332" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="344" cy="265" r="5.5" fill="#6CABDD"/>
+  <circle cx="356" cy="265" r="4" fill="#243D52"/>
+
+  <path d="M437 78V376" stroke="#203A50" stroke-width="2"/>
+  <text x="474" y="105" fill="#6CABDD" font-family="monospace" font-size="23" font-weight="700">Kevin Arun</text>
+  <path d="M474 119H805" stroke="#355A76"/>
+  <text x="474" y="157" fill="#FFFFFF" font-family="monospace" font-size="18">CS &amp; Engineering student, IIIT Kottayam</text>
+  <text x="474" y="211" fill="#6CABDD" font-family="monospace" font-size="17">skills</text>
+  <text x="600" y="211" fill="#FFFFFF" font-family="monospace" font-size="17">Python · AI/ML · JavaScript · TypeScript</text>
+  <text x="474" y="252" fill="#6CABDD" font-family="monospace" font-size="17">building</text>
+  <text x="600" y="252" fill="#FFFFFF" font-family="monospace" font-size="17">WPSYOS</text>
+  <text x="474" y="293" fill="#6CABDD" font-family="monospace" font-size="17">design</text>
+  <text x="600" y="293" fill="#FFFFFF" font-family="monospace" font-size="17">graphic design · logo design</text>
+  <text x="474" y="334" fill="#6CABDD" font-family="monospace" font-size="17">interests</text>
+  <text x="600" y="334" fill="#FFFFFF" font-family="monospace" font-size="17">reading · music · productivity maxxing</text>
+  <text x="56" y="367" fill="#9ABBD3" font-family="monospace" font-size="13">[ BUILT WITH CURIOSITY ]</text>
 </svg>
