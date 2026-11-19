@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420" role="img" aria-labelledby="title desc">
+  <title id="title">KDUB — Kevin Arun</title>
+  <desc id="desc">Kevin Arun, CS and Engineering student at IIIT Kottayam. Skills in Python, AI and machine learning, JavaScript, and TypeScript. Building WPSYOS, graphic and logo design. Interests include reading, music, and productivity.</desc>
+  <rect width="1180" height="420" rx="22" fill="#111114"/>
+  <rect x="1" y="1" width="1178" height="418" rx="21" fill="none" stroke="#3a3a40" stroke-width="2"/>
+  <circle cx="34" cy="30" r="8" fill="#ff4d4d"/>
+  <circle cx="62" cy="30" r="8" fill="#77777f"/>
+  <circle cx="90" cy="30" r="8" fill="#eeeeef"/>
+  <text x="590" y="37" fill="#aaaab1" font-family="monospace" font-size="16" text-anchor="middle">faithinfate19@github:~</text>
+  <path d="M24 54H1156" stroke="#303036"/>
+  <text x="56" y="257" fill="#ef3434" font-family="monospace" font-size="108" font-weight="900" letter-spacing="4">KDUB</text>
+  <path d="M437 78V376" stroke="#3a3a40" stroke-width="2"/>
+  <text x="474" y="105" fill="#ff5555" font-family="monospace" font-size="23" font-weight="700">Kevin Arun</text>
+  <path d="M474 119H805" stroke="#4b2428"/>
+  <text x="474" y="157" fill="#c3c3ca" font-family="monospace" font-size="18">CS &amp; Engineering student, IIIT Kottayam</text>
+  <text x="474" y="211" fill="#ff5555" font-family="monospace" font-size="17">skills</text>
+  <text x="600" y="211" fill="#e3e3e7" font-family="monospace" font-size="17">Python · AI/ML · JavaScript · TypeScript</text>
+  <text x="474" y="252" fill="#ff5555" font-family="monospace" font-size="17">building</text>
+  <text x="600" y="252" fill="#e3e3e7" font-family="monospace" font-size="17">WPSYOS</text>
+  <text x="474" y="293" fill="#ff5555" font-family="monospace" font-size="17">design</text>
+  <text x="600" y="293" fill="#e3e3e7" font-family="monospace" font-size="17">graphic design · logo design</text>
+  <text x="474" y="334" fill="#ff5555" font-family="monospace" font-size="17">interests</text>
+  <text x="600" y="334" fill="#e3e3e7" font-family="monospace" font-size="17">reading · music · productivity maxxing</text>
+  <text x="56" y="367" fill="#77777f" font-family="monospace" font-size="13">[ BUILT WITH CURIOSITY ]</text>
+</svg>
